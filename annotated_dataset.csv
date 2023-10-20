@@ -1,0 +1,4 @@
+Index,Original Text,Translation,Intent1_Cleaned,Intent2,Other,Quality Check,Intent1_Original
+2,when should i take her to get 9 months vaccination??,when should i take her to get 9 months vaccination??,normal_visit,,_vaccination_immunization,,normal_visit
+6,How long mama anafaa kua na damu kwa mda gani ?.,how long should a mother have blood?,serious_situation,,,,serious_situation
+
